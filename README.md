@@ -1,5 +1,3 @@
-
-
 🎮 Nioh 2 – The Complete Edition Trainer
 
 «⚡ A universal project with additional gameplay and visual features»
@@ -109,4 +107,5 @@ configs/
 ├── visual.cfg
 ├── player.cfg
 └── custom.cfg
+
 
